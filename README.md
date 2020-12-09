@@ -38,10 +38,10 @@ I'm an technology enthusiastic and love sharing my experience and knowledge. I'm
 And more...
 
 ## Find me at: 💬
-[![Twitter](https://img.shields.io/badge/@JulioMartinSaez-1DA1F2?style=social&logo=Twitter&logoColor=blue&labelColor=101010)](https://twitter.com/raquelfishes)
-[![Instagram](https://img.shields.io/badge/@j.u.l.ymaker-E4405F?style=social&logo=instagram&logoColor=pink&labelColor=101010)](https://instagram.com/raquelfishes)
-[![LinkedIn](https://img.shields.io/badge/juliomartinsaez-0077B5?style=social&logo=linkedin&logoColor=blue&labelColor=101010)](https://www.linkedin.com/in/raquelpeces)
-[![Web](https://img.shields.io/badge/julymaker.github.io-14a1f0?style=social&logo=dev.to&logoColor=black&labelColor=101010)](https://raquelfishes.github.io)
+[![Twitter](https://img.shields.io/badge/@RaquelFishes-1DA1F2?style=social&logo=Twitter&logoColor=blue&labelColor=101010)](https://twitter.com/raquelfishes)
+[![Instagram](https://img.shields.io/badge/@raquelfishes-E4405F?style=social&logo=instagram&logoColor=pink&labelColor=101010)](https://instagram.com/raquelfishes)
+[![LinkedIn](https://img.shields.io/badge/raquelpeces-0077B5?style=social&logo=linkedin&logoColor=blue&labelColor=101010)](https://www.linkedin.com/in/raquelpeces)
+[![Web](https://img.shields.io/badge/raquelfishes.github.io-14a1f0?style=social&logo=dev.to&logoColor=black&labelColor=101010)](https://raquelfishes.github.io)
 
 ## Contact me: 📫
 [![Email](https://img.shields.io/badge/raquelpm23+web@gmail.com-my_personal_email_(slow_response)-D14836?style=flat&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
